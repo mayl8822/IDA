@@ -1,5 +1,7 @@
-#IDA Pro scripts
+###IDA Pro scripts
+
 ----
-SearchGoogle
-add baidu and bing search
+####SearchGoogle
+- add baidu and bing search
+
 ![image](images/search_google.png)
